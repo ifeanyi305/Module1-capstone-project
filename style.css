@@ -271,12 +271,12 @@ body:has(.hambuger.active) main {
     flex-direction: column-reverse;
   }
 
-  .speaker {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1.5rem;
-  }
+ .speaker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+ }
 }
 
 .speaker {
