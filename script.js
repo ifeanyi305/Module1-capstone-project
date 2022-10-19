@@ -14,37 +14,37 @@ const featured = [
     speaker: 'images/speaker_01.png',
     name: 'Yochai Benkler',
     profession: 'Berkman Professor of Entrepreneurial Legal Studies, Harvard Law School',
-    school: 'Benkler studies commons-based peer production, the Internet, and the law. He is the author of The Wealth of Networks: How Social Production Transforms Markets and Freedom (Yale University Press, 2006)',
+    school: 'Benkler studies commons-based peer production, the Internet, and the law.',
   },
   {
     speaker: 'images/speaker_02.png',
     name: 'SohYeong Noh',
     profession: 'Director of Art Center Nabi, Seoul, Korea and Board Member of Creative Commons Korea',
-    school: 'As the main venue for new media art production in Korea, Nabi promotes cross-discliplinary collaboration and understanding among science technology, humanities, and the arts.',
+    school: 'As the main venue for new media art production in Korea,',
   },
   {
     speaker: 'images/speaker_03.png',
     name: 'Ryan Merkley',
     profession: 'CEO of Creative Commons, ex COO of the Mozilla Foundation',
-    school: 'Ryan had been leading open source and open data projects for over 15 years. He is the co-founder of the Open Source Initiative, the Open Source Hardware Association, and the Open Data Institute.',
+    school: 'Ryan had been leading open source and open data projects for over 15 years.',
   },
   {
     speaker: 'images/speaker_04.png',
     name: 'Lila Tretikov',
     profession: 'Executive Director of Creative Commons, Former Executive Director of the Wikimedia Foundation',
-    school: 'Lila Tretikov is the Executive Director of Creative Commons, a nonprofit organization that enables the sharing and use of creativity and knowledge through free legal tools. She is also a member of the Board of Directors of the Open Technology Institute at New America.',
+    school: 'Lila Tretikov is the Executive Director of Creative Commons, ',
   },
   {
     speaker: 'images/speaker_05.png',
     name: 'Julia Leda',
     profession: 'President of Young Pirates of Europe, Member of the European Parliament',
-    school: 'European ingetration, political democracy, and participation of youth through online as her major condemn, Redia’s report outlines the need for a new European political culture, based on the principles of openness, transparency, and participation.',
+    school: 'European ingetration, political democracy, and participation of youth through online as her major condemn,',
   },
   {
     speaker: 'images/speaker_06.png',
     name: 'Kilnam Chon',
-    profession: 'Data science. Data visualization ; Python. Tim Cook. UX design ; Arduino. Cloud platforms. Raspberry Pi ; Clubhouse. Linux. Web development',
-    school: 'Kilnam Chon helped bring the internet to Asia and is an outspoken advocate for the open web and digital commons. In 2012, he was inducted into the inaugural class of the Internet Society’s Internet Hall of Fame. He is currently the CEO of the Internet Society.',
+    profession: 'Data science. Data visualization ; Python. Tim Cook. UX design ;',
+    school: 'Kilnam Chon helped bring the internet to Asia and is an outspoken advocate.',
   },
 ];
 
@@ -126,7 +126,7 @@ thirdSpeaker.appendChild(descriptionthree);
 
 const namesthree = document.createElement('h3');
 namesthree.textContent = featured[2].name;
-descriptionthree.appendChild(namestwo);
+descriptionthree.appendChild(namesthree);
 
 const workthree = document.createElement('p');
 workthree.className = 'sub-heading push';

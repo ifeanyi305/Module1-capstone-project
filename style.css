@@ -16,8 +16,7 @@ body::before {
 }
 
 .main-container {
-  max-width: 1400px;
-  margin: auto 70px;
+  margin: auto 29px;
 }
 
 .header-section {
@@ -211,12 +210,6 @@ body:has(.hambuger.active) main {
     margin-bottom: 10px;
   }
 
-  .speaker {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-  }
-
   .text {
     text-align: center;
   }
@@ -253,6 +246,10 @@ body:has(.hambuger.active) main {
   .speaker {
     padding: 15px;
   }
+
+  .inner-header {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 552px) {
@@ -273,6 +270,12 @@ body:has(.hambuger.active) main {
     display: flex;
     flex-direction: column-reverse;
   }
+}
+
+.speaker {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
 }
 
 .title-section {
@@ -409,7 +412,7 @@ body:has(.hambuger.active) main {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 30vh;
+  min-height: 15vh;
 }
 
 .down {
@@ -475,4 +478,10 @@ body:has(.hambuger.active) main {
   display: flex;
   justify-content: center;
   gap: 1.5rem;
+}
+
+#footer-con {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
