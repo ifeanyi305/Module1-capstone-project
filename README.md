@@ -1,12 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+Capstone Project
 
 > Description the project.
-
+School project
 
 ## Built With
-
+- Html
+- Css
+- Javascript
 - Major languages
 - Frameworks
 - Technologies used
@@ -18,18 +21,19 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple example steps:
 
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+Vscode. must have git installed.
 
 ### Setup
+Clone this repo with: https://github.com/ifeanyi305/Module1-capstone-project.git
+
+cd Module1-capstone-project
 
 ### Install
-
+npm install
 ### Usage
 
 ### Run tests
@@ -39,24 +43,16 @@ To get a local copy up and running follow these simple example steps.
 
 
 ## Authors
-
+Ifeanyi305
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ifeanyi305)
+- Twitter: [@twitterhandle](https://twitter.com/Otiifeanyi2020)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oti-joseph-56992723b/)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]Fork the Project Create your Feature Branch (git checkout -b 'branchname') Commit your Changes (git commit -m 'Add some branchname') Push to the Branch (git push origin branchname) Open a Pull Request Feel free to check the
 
 ## Show your support
 
