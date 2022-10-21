@@ -206,6 +206,10 @@ body:has(.hambuger.active) main {
     margin-bottom: 5%;
   }
 
+  #viewmore {
+    display: none;
+  }
+
   .push {
     margin-bottom: 10px;
   }
@@ -241,6 +245,32 @@ body:has(.hambuger.active) main {
   #speakers-grid {
     margin-top: 10%;
     margin-bottom: 10%;
+    transition: 0.5s;
+    height: 400px;
+    overflow: hidden;
+  }
+
+  #viewmore {
+    background-color: #ec5242;
+    color: #d3d3d3;
+    padding: 5px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+
+  #viewmore:hover {
+    background-color: #464543;
+    color: white;
+  }
+
+  .view-btn {
+    margin-bottom: 11px;
+  }
+
+  .activatee {
+    height: 100% !important;
   }
 
   .speaker {
