@@ -49,8 +49,8 @@ const featured = [
 ];
 
 const wholeSpeakers = document.getElementById('speakers-grid');
-for (let i=0;i<featured.length;i++){
-  let div = document.createElement('div');
+for (let i = 0; i < featured.length; i += 1) {
+  const div = document.createElement('div');
   div.className = 'speaker';
   div.innerHTML = `
   <img src="${featured[i].speaker}" alt="${featured[i].name}}" class="image">                  
@@ -59,7 +59,6 @@ for (let i=0;i<featured.length;i++){
   <p class="sub-heading push">${featured[i].profession}</p>
   <span class="institution">${featured[i].school}</span>
  </div>
-  `
+  `;
   wholeSpeakers.appendChild(div);
 }
-
