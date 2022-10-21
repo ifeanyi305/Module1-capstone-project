@@ -62,3 +62,13 @@ for (let i = 0; i < featured.length; i += 1) {
   `;
   wholeSpeakers.appendChild(div);
 }
+
+const seemore = document.getElementById('viewmore');
+seemore.addEventListener('click', () => {
+  wholeSpeakers.classList.toggle('activatee');
+  if (seemore.textContent === 'see more speakers') {
+    seemore.textContent = 'see less';
+  } else {
+    seemore.textContent = 'see more speakers';
+  }
+});
