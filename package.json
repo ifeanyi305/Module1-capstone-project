@@ -1,0 +1,23 @@
+{
+  "name": "module1-capstone-project",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifeanyi305/Module1-capstone-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifeanyi305/Module1-capstone-project/issues"
+  },
+  "homepage": "https://github.com/ifeanyi305/Module1-capstone-project#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
