@@ -1,58 +1,64 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-Capstone Project
+# Citadel
 
-> Description the project.
-School project
+> Description of the project.
+This capstone project is built for the study Institution website for an online lecture. Built with HTML, CSS and javascript.
 
 ## Built With
-- Html
-- Css
+- HTML
+- CSS
 - Javascript
-- Major languages
-- Frameworks
-- Technologies used
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://ifeanyi305.github.io/Module1-capstone-project/)
 
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps:
 
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-Vscode. must have git installed.
 
-### Setup
-Clone this repo with: https://github.com/ifeanyi305/Module1-capstone-project.git
+- You must have a code compiler installed on your machine such as (VS code or Atom).
 
-cd Module1-capstone-project
+**Go to your Cli and follow the steps below**
 
-### Install
-npm install
-### Usage
+To get a local copy up and running follow these simple example steps.
 
-### Run tests
+- Clone the repository: go to Your Cli and run
+```
+$ git clone https://github.com/ifeanyi305/Module1-capstone-project.git
+```
 
-### Deployment
+- change into the repository:  run
+```
+$ cd repository name
+```
 
+- Install all the project dependences: Run 
+```
+$ npm Insttall
+``` 
 
+- now you can view the project in the browser using any web server of choice
 
 ## Authors
-Ifeanyi305
+
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/ifeanyi305)
-- Twitter: [@twitterhandle](https://twitter.com/Otiifeanyi2020)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oti-joseph-56992723b/)
+- GitHub: [@ifeanyi305](https://github.com/ifeanyi305)
+- Twitter: [@otiifeanyi2020](https://twitter.com/Otiifeanyi2020)
+- LinkedIn: [otijoseph](https://www.linkedin.com/in/oti-joseph-ifeanyi/)
+
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]Fork the Project Create your Feature Branch (git checkout -b 'branchname') Commit your Changes (git commit -m 'Add some branchname') Push to the Branch (git push origin branchname) Open a Pull Request Feel free to check the
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -60,12 +66,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to Microverse..
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
