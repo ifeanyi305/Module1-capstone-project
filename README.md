@@ -40,7 +40,7 @@ $ cd repository name
 
 - Install all the project dependences: Run 
 ```
-$ npm Insttall
+$ npm Install
 ``` 
 
 - now you can view the project in the browser using any web server of choice
