@@ -2,7 +2,6 @@
 
 # Citadel
 
-> Description of the project.
 This capstone project is built for the study Institution website for an online lecture. Built with HTML, CSS and javascript.
 
 ## Built With
